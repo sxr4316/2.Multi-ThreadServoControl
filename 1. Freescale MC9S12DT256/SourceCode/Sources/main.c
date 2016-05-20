@@ -1,5 +1,5 @@
 /******************************************************************************
- * PWM Pulse Width Measurement Program
+ * Simulated Multi-Thread PWM Controlled Servo Operation
  *
  * Description:
  *
